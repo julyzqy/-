@@ -32,6 +32,7 @@ body{
 /* 左面浮动logo */
 .headerContent img {
     float: left;
+    height:48px;
     margin-top: 10px;
 }
 /* 右标签 */
